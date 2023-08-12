@@ -1,7 +1,7 @@
 {
   "name": "ncu-test-semver",
   "description": "A package with major, minor, patch, and prereleases published.",
-  "version": "2.0.0-1",
+  "version": "2.0.0-2",
   "author": {
     "name": "Raine Revere",
     "url": "https://github.com/raineorshine"
